@@ -9,7 +9,7 @@
     
     - single line comments can be inserted after // (two back-slashes).    
 */
-#include <iostream> 
+#include <bits/stdc++.h> 
 
 /*
     - all the input-output related routines can be called in std namespace, so
@@ -40,7 +40,7 @@ int main(){
     */
     
     // declare three variables 
-    int num1, num2, result;
+   long long int num1, num2, result;
     
     /*
         - Taking input from the user 
