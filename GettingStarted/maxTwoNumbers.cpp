@@ -7,7 +7,7 @@ using namespace std;
 
 int main(){
   
-    int num1, num2;
+    long long int num1, num2;
     cout << "Please enter two numbers:\n"; // prompt user to enter numbers
     cin >> num1 >> num2;
   
@@ -55,7 +55,7 @@ int main(){
         So, we can now continue with the program:
     */
   
-    int max; // to store the maximum out of the two
+    long long int max; // to store the maximum out of the two
     
     // conditional statement 
     if(num1 > num2){   
